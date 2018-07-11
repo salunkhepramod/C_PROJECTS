@@ -1,2 +1,3 @@
 # C_PROJECTS
 KICIT C PROJECTS
+This Book Gives You A Better Reason To Eye Such Sleek Software With Confidence. The First Book Of Its Kind, C Projects Is A Veritable Treasure For All Those Who Have A Working Knowledge Of C, And An Incentive To Learn C For Those Who Haven'T. It Puts The Unbounded Potential Of C To Work In A Wide Range Of Software's. C Projects Gives You More Than 16000 Lines Of C Source Code. And That'S A Lot Of Code! No Longer Are These Software'S Out Of Reach; You Can Now Enter The Fascinating World Of Creating Professional Level Software's, And Greet The Arrival Of Any New Package With The Wisdom Of One Who Knows!
